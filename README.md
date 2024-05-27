@@ -31,18 +31,24 @@ Consists of:
        To cover 80% of the estimated total number of people diagnosed with a mental disorder, we need to focus on just 165 segments (out of 1200 different segments).
 
        File attached when you can see the budget allocation x segment & demographic charts (Age tab & Age + Sex tab).
-       Feel free to navigate through the tabs, starting point: Data tab, Creating segments: Accumulative % Prevalence tab, Budget Allocation tab & demographic charts tabs. 
+       Feel free to navigate through the tabs, starting point: Data tab, Creating segments: Accumulative % Prevalence tab, Budget Allocation tab & demographic charts tabs.
 
-2. Donor Presentation
+       LINK: https://docs.google.com/spreadsheets/d/1snrwFOD5nclBlJJUQKfCvkYLY0T4tnmk-7LvMM4rDuI/edit?usp=sharing
+
+3. Donor Presentation
 
      Tableau Story with the purpose of engaging potential donors to contribute in Mental Health, highlighting costs & benefits of investing it.
      Link attached.
 
-3. Tableau Dashboard
+     LINK: https://public.tableau.com/views/DonorPresentationPublishedversionD/Presentation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+5. Tableau Dashboard
 
     Interactive Tableau Dashboard displaying Prevalence Health Disorder's demographic data (Country, Sex, Age-group) x number of cases and worldwide %.
     Feel free to choose the country of your interest and discover its Prevalence.
     Link attached. Please Change Display Settings (bottom right) to Desktop Layout.
+
+    LINK: https://public.tableau.com/views/DashboardforMentalHealthStatistics-Solution1/Dashboard?:language=en-          US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
 
 
 
