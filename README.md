@@ -48,7 +48,7 @@ Consists of:
     Feel free to choose the country of your interest and discover its Prevalence.
     Link attached. Please Change Display Settings (bottom right) to Desktop Layout.
 
-    LINK: https://public.tableau.com/views/DashboardforMentalHealthStatistics-Solution1/Dashboard?:language=en-          US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
+    LINK: https://public.tableau.com/views/DashboardforMentalHealthStatistics-Solution1/Dashboard?:language=en US&:sid=&:display_count=n&:origin=viz_share_link&:device=desktop
 
 
 
