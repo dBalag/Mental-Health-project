@@ -16,7 +16,7 @@ Consists of:
 
        In order to allocate fairly the budget, we focused on groups with a higher incidence of mental health conditions.
       
-       Spreadsheets were utilized for our analysis. Tab -> Data
+       Spreadsheets were utilized for our analysis. 
 
        To grasp the overall prevalence of mental health conditions among various demographic groups, we examined prevalence data by age and gender.
 
@@ -31,10 +31,19 @@ Consists of:
        To cover 80% of the estimated total number of people diagnosed with a mental disorder, we need to focus on just 165 segments (out of 1200 different segments).
 
        File attached when you can see the budget allocation x segment & demographic charts (Age tab & Age + Sex tab).
-       Feel free to navigate through the tabs, starting point: Data tab, Creating segments: Accumulative % Prevalence, Budget Allocation tab & demographic charts. 
+       Feel free to navigate through the tabs, starting point: Data tab, Creating segments: Accumulative % Prevalence tab, Budget Allocation tab & demographic charts tabs. 
 
 2. Donor Presentation
 
-     Tableau Stories with the purpose of engaging potential donors to contribute in Mental Health, highlighting costs & benefits.
+     Tableau Story with the purpose of engaging potential donors to contribute in Mental Health, highlighting costs & benefits of investing it.
      Link attached.
+
+3. Tableau Dashboard
+
+    Interactive Tableau Dashboard displaying Prevalence Health Disorder's demographic data (Country, Sex, Age-group) x number of cases and worldwide %.
+    Feel free to choose the country of your interest and discover its Prevalence.
+    Link attached. Please Change Display Settings (bottom right) to Desktop Layout.
+
+
+
      
